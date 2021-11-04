@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Ying-Ying Xu's Page
 
-You can use the [editor on GitHub](https://github.com/yingying-xu/yingying-xu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, Southern Medical University. I am interested in bioinformatics, image processing, and pattern recognition. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## About me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
