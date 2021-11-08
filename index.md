@@ -3,8 +3,8 @@
 
 <img src="yyxu1.jpg"
      alt="Photo"
-     width="90"
-     height="125"
+     width="105"
+     height="145"
      style="position:absolute; top:350px; left:1050px; ">
 
 - Email: yyxu@smu.edu.cn
