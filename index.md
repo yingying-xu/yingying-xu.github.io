@@ -4,7 +4,8 @@
 <img src="yyxu1.jpg"
      alt="Photo"
      width="105"
-     height="145">
+     height="145"
+     style = "float:right; margin:5px;"/>
 
 - Email: yyxu@smu.edu.cn
 - Researchgate: <a href="https://www.researchgate.net/profile/Ying-Ying-Xu" >https://www.researchgate.net/profile/Ying-Ying-Xu</a>
