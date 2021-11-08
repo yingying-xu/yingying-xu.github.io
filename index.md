@@ -5,12 +5,13 @@
      alt="Photo"
      width="100"
      height="135"
-     style = "float:right; margin:0px;"/>
+     style = "float:right; margin:50px;"/>
 
 - Email: yyxu@smu.edu.cn
 - Researchgate: <a href="https://www.researchgate.net/profile/Ying-Ying-Xu" >https://www.researchgate.net/profile/Ying-Ying-Xu</a>
 - Github: <a href="https://yingying-xu.github.io">https://yingying-xu.github.io</a>
 
+<br>
 
 ## About Me
 
