@@ -3,7 +3,7 @@
 
 - Email: yyxu@smu.edu.cn
 - Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
-- Github: https://yingying-xu.github.io/
+- Github: https://yingying-xu.github.io
 
 ## About Me
 
