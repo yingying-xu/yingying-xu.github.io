@@ -3,7 +3,7 @@
 
 <img src="yyxu1.jpg"
      alt="Photo"
-     width="180"
+     width="170"
      height="135"
      style = "float:left; margin:10px;"/>
 
@@ -12,7 +12,6 @@
 - Github: <a href="https://yingying-xu.github.io">https://yingying-xu.github.io</a>
 
      
-<br>
 <br>
 <br>
 
