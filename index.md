@@ -1,13 +1,13 @@
 
 # Ying-Ying Xu
 
+<img src="yyxu1.jpg" class="floatpic" width="180" height="250">
+
 - Email: yyxu@smu.edu.cn
 - Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
 - Github: https://yingying-xu.github.io
 
 ## About Me
-
-<img src="yyxu1.jpg" class="floatpic" width="180" height="250">
 
 My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, Southern Medical University. My research interests include bioinformatics, image processing, and pattern recognition. Our group develops machine learning models for the analysis of bioimages. For example, we design computational algorithms to recognize protein subcellular localization in both qualitative and quantitative manners from immunohistochemistry images, immunofluorescence images, and other proteomics data. 
 
