@@ -1,8 +1,8 @@
 
 Ying-Ying Xu
 
--Email: yyxu@smu.edu.cn
--Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
+- Email: yyxu@smu.edu.cn
+- Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
 
 # About Me
 
@@ -17,7 +17,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 # Publications
 
-- Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and Ying-Ying Xu*. Improving protein subcellular location classification by incorporating three-dimensional structure information. Biomolecules, 2021, 11(11):1607.
+- Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and <b>Ying-Ying Xu</b>*. Improving protein subcellular location classification by incorporating three-dimensional structure information. <i>Biomolecules</i>, 2021, 11(11):1607.
 - Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and Ying-Ying Xu*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. Bioinformatics, 2021, in press.
 - Jin-Xian Hu, Yang Yang, Ying-Ying Xu*, and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. Proteins: Structure, Function, and Bioinformatics, 2021, In press. 
 - Ying-Ying Xu, Hang Zhou, Robert F. Murphy, and Hong-Bin Shen*. Consistency and variation of protein subcellular location annotations. Proteins: Structure, Function, and Bioinformatics, 2021, 89:242-250.
