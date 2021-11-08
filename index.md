@@ -1,11 +1,15 @@
 
 # Ying-Ying Xu
 
-<img src="yyxu1.jpg" alt="Photo"  width="90" height="125" style="position:absolute; top:350px; left:1000px; ">
+<img src="yyxu1.jpg"
+     alt="Photo"
+     width="90"
+     height="125"
+     style="position:absolute; top:350px; left:1050px; ">
 
 - Email: yyxu@smu.edu.cn
-- Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
-- Github: https://yingying-xu.github.io
+- Researchgate: <a href="https://www.researchgate.net/profile/Ying-Ying-Xu" >https://www.researchgate.net/profile/Ying-Ying-Xu</a>
+- Github: <a href="https://yingying-xu.github.io">https://yingying-xu.github.io</a>
 
 ## About Me
 
