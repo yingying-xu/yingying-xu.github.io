@@ -3,7 +3,7 @@
 
 <img src="yyxu1.jpg"
      alt="Photo"
-     width="170"
+     width="150"
      height="135"
      style = "float:left; margin:10px;"/>
 
