@@ -22,7 +22,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2021, in press.
 
-- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu*</b>, and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, In press. 
+- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, In press. 
 
 - <b>Ying-Ying Xu</b>, Hang Zhou, Robert F. Murphy, and Hong-Bin Shen*. Consistency and variation of protein subcellular location annotations. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, 89:242-250.
 
