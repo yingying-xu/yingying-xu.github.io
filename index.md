@@ -17,10 +17,10 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Experience
 
-- Associate Professor, Southern Medical University (2017-)
-- Visiting PhD Student, Carnegie Mellon University, Supervised by <a href="https://murphylab.web.cmu.edu/">Robert F. Murphy</a> (2015-2016)
-- PhD, Shanghai Jiao Tong University, Supervised by <a href="http://www.csbio.sjtu.edu.cn">Hong-Bin Shen</a> (2011-2017)
-- BS, Northeastern University at Qinhuangdao (2007-2011)
+- Associate Professor, Southern Medical University, China (2017-)
+- Visiting PhD Student, Carnegie Mellon University, USA, Supervised by <a href="https://murphylab.web.cmu.edu/">Robert F. Murphy</a> (2015-2016)
+- PhD, Shanghai Jiao Tong University, China, Supervised by <a href="http://www.csbio.sjtu.edu.cn">Hong-Bin Shen</a> (2011-2017)
+- BS, Northeastern University at Qinhuangdao, China (2007-2011)
 
 ## Publications
 
