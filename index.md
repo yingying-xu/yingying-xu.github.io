@@ -1,7 +1,7 @@
 
 # Ying-Ying Xu
 
-<img src="yyxu1.jpg" width="90" height="125" style="position:absolute; top:300px; left:1000px; ">
+<img src="yyxu1.jpg" alt="Photo"  width="90" height="125" style="position:absolute; top:350px; left:1000px; ">
 
 - Email: yyxu@smu.edu.cn
 - Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
