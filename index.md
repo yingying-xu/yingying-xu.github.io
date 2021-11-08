@@ -4,12 +4,11 @@
 <img src="yyxu1.jpg"
      alt="Photo"
      width="105"
-     height="145"
-     style="position:absolute; top:310px; left:1050px; ">
+     height="145">
 
-                                  - Email: yyxu@smu.edu.cn
-                                  - Researchgate: <a href="https://www.researchgate.net/profile/Ying-Ying-Xu" >https://www.researchgate.net/profile/Ying-Ying-Xu</a>
-                                  - Github: <a href="https://yingying-xu.github.io">https://yingying-xu.github.io</a>
+- Email: yyxu@smu.edu.cn
+- Researchgate: <a href="https://www.researchgate.net/profile/Ying-Ying-Xu" >https://www.researchgate.net/profile/Ying-Ying-Xu</a>
+- Github: <a href="https://yingying-xu.github.io">https://yingying-xu.github.io</a>
 
 ## About Me
 
