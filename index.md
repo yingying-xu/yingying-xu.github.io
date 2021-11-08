@@ -1,21 +1,21 @@
 
-Ying-Ying Xu
+# Ying-Ying Xu
 
 - Email: yyxu@smu.edu.cn
 - Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
 
-# About Me
+## About Me
 
 My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, Southern Medical University. My research interests include bioinformatics, image processing, and pattern recognition. Our group develops machine learning models for the analysis of bioimages. For example, we design computational algorithms to recognize protein subcellular localization in both qualitative and quantitative manners from immunohistochemistry images, immunofluorescence images, and other proteomics data. 
 
-# Experience
+## Experience
 
 - Associate Professor, Southern Medical University (2017-)
 - Visiting PhD Student, Carnegie Mellon University, Supervised by <a href="https://murphylab.web.cmu.edu/">Robert F. Murphy</a> (2015-2016)
 - PhD, Shanghai Jiao Tong University, Supervised by <a href="http://www.csbio.sjtu.edu.cn">Hong-Bin Shen</a> (2011-2017)
 - BS, Northeastern University at Qinhuangdao (2007-2011)
 
-# Publications
+## Publications
 
 - Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and <b>Ying-Ying Xu</b>*. Improving protein subcellular location classification by incorporating three-dimensional structure information. <i>Biomolecules</i>, 2021, 11(11):1607.
 - Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and Ying-Ying Xu*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. Bioinformatics, 2021, in press.
