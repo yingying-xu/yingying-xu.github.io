@@ -1,7 +1,8 @@
 
 Ying-Ying Xu
 
-email: yyxu@smu.edu.cn
+-Email: yyxu@smu.edu.cn
+-Researchgate: https://www.researchgate.net/profile/Ying-Ying-Xu
 
 # About Me
 
