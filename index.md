@@ -29,8 +29,8 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 ## Research Projects
 
 - Interpretation of Protein Location Patterns from Microscope Images
-- Prediction and Application of Protein Subcellular Localization based on Multi-Source data
-- Object detection and Classification for Medical Images
+- Prediction and Application of Protein Subcellular Localization Based on Multi-Source Data
+- Object Detection and Classification for Medical Images
 
 ## Publications
 
