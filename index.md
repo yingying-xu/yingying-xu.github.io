@@ -44,7 +44,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - Zhen-Zhen Xue^, Yanxia Wu^, Qing-Zu Gao, Liang Zhao, and <b>Ying-Ying Xu</b>*. Automated classification of protein subcellular localization in immunohistochemistry images to reveal biomarkers in colon cancer. <i>BMC Bioinformatics</i>, 2020, 21(1):398.
 
-- <b>Ying-Ying Xu</b>, Hong-Bin Shen*, and Robert F. Murphy*. Learning complex subcellular distribution patterns of proteins via analysis of immunohistochemistry images. <i>Bioinformatics</i>, 2020, 36(6):1908-1914.
+- <b>Ying-Ying Xu</b>, Hong-Bin Shen* , and Robert F. Murphy*. Learning complex subcellular distribution patterns of proteins via analysis of immunohistochemistry images. <i>Bioinformatics</i>, 2020, 36(6):1908-1914.
 
 - <b>Ying-Ying Xu</b>, Li-Xiu Yao, and Hong-Bin Shen*. Bioimage-based protein subcellular location prediction: a comprehensive review. <i>Frontiers of Computer Science</i>, 2018, 12(1):26-39.
 
