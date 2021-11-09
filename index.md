@@ -60,7 +60,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - Fan Yang, <b>Ying-Ying Xu</b>, Shi-Tong Wang, and Hong-Bin Shen*. Image-based classification of protein subcellular location patterns in human reproductive tissue by ensemble learning global and local features. <i>Neurocomputing</i>, 2014, 131:113-123.
 
-- Fan Yang, <b>Ying-Ying Xu</b>, and Hong-Bin Shen*, Many local pattern texture features: which is better for image-based multi-label human protein subcellular localization classification?. <i>The Scientific World Journal</i>, 2014: 429049.
+- Fan Yang, <b>Ying-Ying Xu</b>, and Hong-Bin Shen*. Many local pattern texture features: which is better for image-based multi-label human protein subcellular localization classification?. <i>The Scientific World Journal</i>, 2014: 429049.
 
 - <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang* , and Hong-Bin Shen*. An image-based multi-label human protein subcellular localization predictor (<i>i</i>Locator) reveals protein mislocalizations in cancer tissues. <i>Bioinformatics</i>, 2013, 29(16):2032-2040.
 
