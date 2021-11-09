@@ -26,7 +26,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 - PhD, Shanghai Jiao Tong University, China, Supervised by <a href="http://www.csbio.sjtu.edu.cn">Hong-Bin Shen</a> (2011-2017)
 - BS, Northeastern University at Qinhuangdao, China (2007-2011)
 
-## Projects
+## Research Projects
 
 - Interpretation of Protein Location Patterns from Microscope Images
 - Prediction and Application of Protein Subcellular Localization based on Multi-Source data
