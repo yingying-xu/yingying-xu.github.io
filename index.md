@@ -17,7 +17,7 @@
 
 ## About Me
 
-My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, <a href="https://www.smu.edu.cn">Southern Medical University</a>. My research interests include bioinformatics, image processing, and pattern recognition. Our group develops machine learning models for the analysis of bioimages. For example, we design computational algorithms to recognize protein subcellular localization in both qualitative and quantitative manners from immunohistochemistry images, immunofluorescence images, and other proteomics data. 
+My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, Southern Medical University. My research interests include bioinformatics, image processing, and pattern recognition. Our group develops machine learning models for the analysis of bioimages. For example, we design computational algorithms to recognize protein subcellular localization in both qualitative and quantitative manners from immunohistochemistry images, immunofluorescence images, and other proteomics data. 
 
 ## Experience
 
