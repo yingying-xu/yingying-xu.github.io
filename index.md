@@ -62,7 +62,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - Fan Yang, <b>Ying-Ying Xu</b>, and Hong-Bin Shen*, Many local pattern texture features: which is better for image-based multi-label human protein subcellular localization classification?. <i>The Scientific World Journal</i>, 2014: 429049.
 
-- <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang* , and Hong-Bin Shen*. An image-based multi-label human protein subcellular localization predictor (iLocator) reveals protein mislocalizations in cancer tissues. <i>Bioinformatics</i>, 2013, 29:2032-2040.
+- <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang* , and Hong-Bin Shen*. An image-based multi-label human protein subcellular localization predictor (<i>i</i>Locator) reveals protein mislocalizations in cancer tissues. <i>Bioinformatics</i>, 2013, 29(16):2032-2040.
 
 - Fan Yang，<b>Ying-Ying Xu</b>，and Hong-Bin Shen*. Automated classification of protein subcellular location patterns on images of human reproductive tissues. <i>3rd Sino-foreign-interchange workshop on Intelligent Science and Intelligent Data Engineering (IScIDE 2012)</i>, 2012, 254-262, Nanjing, China.
 
