@@ -48,15 +48,15 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - <b>Ying-Ying Xu</b>, Li-Xiu Yao, and Hong-Bin Shen*. Bioimage-based protein subcellular location prediction: a comprehensive review. <i>Frontiers of Computer Science</i>, 2018, 12(1):26-39.
 
-- Wei Shao, Mingxia Liu, <b>Ying-Ying Xu</b>, Hong-Bin Shen, and Daoqiang Zhang. An organelle correlation-guided feature selection approach for classifying multi-Label subcellular bioimages. <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i>, 2018, 15(3):828-838.
+- Wei Shao, Mingxia Liu, <b>Ying-Ying Xu</b>, Hong-Bin Shen, and Daoqiang Zhang. An organelle correlation-guided feature selection approach for classifying multi-label subcellular bioimages. <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i>, 2018, 15(3):828-838.
 
 - Jin-Xian Hu, <b>Ying-Ying Xu</b>, Yang Yang, and Hong-Bin Shen*. Deep learning-based classification of protein subcellular localization from immunohistochemistry images. <i>4th IAPR Asian Conference on Pattern Recognition (ACPR 2017)</i>, 2017, Nanjing, China.
 
-- <b>Ying-Ying Xu</b>, Fan Yang, and Hong-Bin Shen*. Incorporating organelle correlations into semi-supervised learning for protein subcellular localization prediction. <i>Bioinformatics</i>, 2016, 32:2184-2192.
+- <b>Ying-Ying Xu</b>, Fan Yang, and Hong-Bin Shen*. Incorporating organelle correlations into semi-supervised learning for protein subcellular localization prediction. <i>Bioinformatics</i>, 2016, 32(14):2184-2192.
 
 - Xi Yin, <b>Ying-Ying Xu</b>, and Hong-Bin Shen*. Enhancing the prediction of transmembrane β-Barrel segments with chain learning and feature sparse representation. <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i>, 2016, 13(6):1016-1026.
 
-- <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang, and Hong-Bin Shen*. Bioimaging based detection of mislocalized proteins in human cancers by semi-supervised learning. <i>Bioinformatics</i>, 2015, 31:1111-1119.
+- <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang, and Hong-Bin Shen*. Bioimaging based detection of mislocalized proteins in human cancers by semi-supervised learning. <i>Bioinformatics</i>, 2015, 31(7):1111-1119.
 
 - Fan Yang, <b>Ying-Ying Xu</b>, Shi-Tong Wang, and Hong-Bin Shen*. Image-based classification of protein subcellular location patterns in human reproductive tissue by ensemble learning global and local features. <i>Neurocomputing</i>, 2014, 131:113-123.
 
