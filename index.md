@@ -17,7 +17,7 @@
 
 ## About Me
 
-My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, Southern Medical University. My research interests include bioinformatics, image processing, and pattern recognition. Our group develops machine learning models for the analysis of bioimages. For example, we design computational algorithms to recognize protein subcellular localization in both qualitative and quantitative manners from immunohistochemistry images, immunofluorescence images, and other proteomics data. 
+My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical Engineering, <a href="https://www.smu.edu.cn">Southern Medical University</a>. My research interests include bioinformatics, image processing, and pattern recognition. Our group develops machine learning models for the analysis of bioimages. For example, we design computational algorithms to recognize protein subcellular localization in both qualitative and quantitative manners from immunohistochemistry images, immunofluorescence images, and other proteomics data. 
 
 ## Experience
 
@@ -25,6 +25,12 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 - Visiting PhD Student, Carnegie Mellon University, USA, Supervised by <a href="https://murphylab.web.cmu.edu/">Robert F. Murphy</a> (2015-2016)
 - PhD, Shanghai Jiao Tong University, China, Supervised by <a href="http://www.csbio.sjtu.edu.cn">Hong-Bin Shen</a> (2011-2017)
 - BS, Northeastern University at Qinhuangdao, China (2007-2011)
+
+## Projects
+
+- Interpretation of Protein Location Patterns from Microscope Images
+- Prediction and Application of Protein Subcellular Localization based on Multi-Source data
+- Object detection and Classification for Medical Images
 
 ## Publications
 
@@ -56,7 +62,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - Fan Yang, <b>Ying-Ying Xu</b>, and Hong-Bin Shen*, Many local pattern texture features: which is better for image-based multi-label human protein subcellular localization classification?. <i>The Scientific World Journal</i>, 2014: 429049.
 
-- <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang*, Hong-Bin Shen*. An image-based multi-label human protein subcellular localization predictor (iLocator) reveals protein mislocalizations in cancer tissues. <i>Bioinformatics</i>, 2013, 29:2032-2040.
+- <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang* , and Hong-Bin Shen*. An image-based multi-label human protein subcellular localization predictor (iLocator) reveals protein mislocalizations in cancer tissues. <i>Bioinformatics</i>, 2013, 29:2032-2040.
 
 - Fan Yang，<b>Ying-Ying Xu</b>，and Hong-Bin Shen*. Automated classification of protein subcellular location patterns on images of human reproductive tissues. <i>3rd Sino-foreign-interchange workshop on Intelligent Science and Intelligent Data Engineering (IScIDE 2012)</i>, 2012, 254-262, Nanjing, China.
 
