@@ -35,7 +35,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 ## Publications
 
 - Ge Wang, Min-Qi Xue, Hong-Bin Shen*, and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2021, Accepted.
--
+
 - Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2021, In press.
 
 - Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and <b>Ying-Ying Xu</b>*. Improving protein subcellular location classification by incorporating three-dimensional structure information. <i>Biomolecules</i>, 2021, 11(11):1607.
