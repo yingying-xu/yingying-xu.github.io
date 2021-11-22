@@ -34,13 +34,15 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
+- Ge Wang, Min-Qi Xue, Hong-Bin Shen*, and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2021, Accepted.
+-
 - Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2021, In press.
 
 - Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and <b>Ying-Ying Xu</b>*. Improving protein subcellular location classification by incorporating three-dimensional structure information. <i>Biomolecules</i>, 2021, 11(11):1607.
 
 - Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, In press. 
 
-- <b>Ying-Ying Xu</b>, Hang Zhou, Robert F. Murphy, and Hong-Bin Shen*. Consistency and variation of protein subcellular location annotations. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, 89:242-250.
+- <b>Ying-Ying Xu</b>, Hang Zhou, Robert F. Murphy, and Hong-Bin Shen*. Consistency and variation of protein subcellular location annotations. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, 89(2):242-250.
 
 - Zhen-Zhen Xue^, Yanxia Wu^, Qing-Zu Gao, Liang Zhao, and <b>Ying-Ying Xu</b>*. Automated classification of protein subcellular localization in immunohistochemistry images to reveal biomarkers in colon cancer. <i>BMC Bioinformatics</i>, 2020, 21(1):398.
 
