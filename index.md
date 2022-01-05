@@ -10,7 +10,7 @@
 - Email: yyxu@smu.edu.cn
 - Researchgate: <a href="https://www.researchgate.net/profile/Ying-Ying-Xu" >https://www.researchgate.net/profile/Ying-Ying-Xu</a>
 - Github: <a href="https://yingying-xu.github.io">https://yingying-xu.github.io</a>
-- Chinese webpage (中文页面): <a href="https://portal.smu.edu.cn/swyxgcxy/info/1020/1382.htm">https://portal.smu.edu.cn/swyxgcxy/info/1020/1382.htm</a>
+- Chinese webpage (中文): <a href="https://portal.smu.edu.cn/swyxgcxy/info/1020/1382.htm">https://portal.smu.edu.cn/swyxgcxy/info/1020/1382.htm</a>
 
      
 <br>
@@ -35,7 +35,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
-- Jiajia Zhao, Dian He, Hei Ming Lai, <b>Ying-Ying Xu</b>, Yunhao Luo, Ting Li, Jianhao Liang, Xiaodu Yang, Linlang Guo, Yiquan Ke, Hongwei Zhou, Wutian Wu* , Hongbo Guo*, Haitao Sun*. Comprehensive histological imaging of native microbiota in human glioma. <i>Journal of Biophotonics</i>, 2021, In press.
+- Jiajia Zhao, Dian He, Hei Ming Lai, <b>Ying-Ying Xu</b>, Yunhao Luo, Ting Li, Jianhao Liang, Xiaodu Yang, Linlang Guo, Yiquan Ke, Hongwei Zhou, Wutian Wu* , Hongbo Guo* , Haitao Sun*. Comprehensive histological imaging of native microbiota in human glioma. <i>Journal of Biophotonics</i>, 2021, In press.
 
 - Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2021, Accepted.
 
