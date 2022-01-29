@@ -35,15 +35,15 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
-- Jiajia Zhao, Dian He, Hei Ming Lai, <b>Ying-Ying Xu</b>, Yunhao Luo, Ting Li, Jianhao Liang, Xiaodu Yang, Linlang Guo, Yiquan Ke, Hongwei Zhou, Wutian Wu* , Hongbo Guo* , Haitao Sun*. Comprehensive histological imaging of native microbiota in human glioma. <i>Journal of Biophotonics</i>, 2021, In press.
+- Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2022, bbab539, doi:10.1093/bib/bbab539.
 
-- Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2021, Accepted.
+- Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2022, 38(3):827–833.
 
-- Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2021, In press.
+- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2022, 90(2):493-503. 
+
+- Jiajia Zhao, Dian He, Hei Ming Lai, <b>Ying-Ying Xu</b>, Yunhao Luo, Ting Li, Jianhao Liang, Xiaodu Yang, Linlang Guo, Yiquan Ke, Hongwei Zhou, Wutian Wu* , Hongbo Guo* , Haitao Sun*. Comprehensive histological imaging of native microbiota in human glioma. <i>Journal of Biophotonics</i>, 2021, e202100351.
 
 - Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and <b>Ying-Ying Xu</b>*. Improving protein subcellular location classification by incorporating three-dimensional structure information. <i>Biomolecules</i>, 2021, 11(11):1607.
-
-- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, In press. 
 
 - <b>Ying-Ying Xu</b>, Hang Zhou, Robert F. Murphy, and Hong-Bin Shen*. Consistency and variation of protein subcellular location annotations. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021, 89(2):242-250.
 
