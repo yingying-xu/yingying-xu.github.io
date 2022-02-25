@@ -35,6 +35,8 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
+- Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022, Accepted.
+
 - Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2022, bbab539, doi:10.1093/bib/bbab539.
 
 - Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2022, 38(3):827–833.
