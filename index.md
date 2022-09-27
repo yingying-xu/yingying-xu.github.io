@@ -35,7 +35,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
-- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-09-16, In press.
+- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-09-16, btac634.
      
 - Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Improving segmentation and classification of renal tumors in small sample 3D CT images using transfer learning with convolutional neural networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022-07, 17(7):1303-1311.
 
