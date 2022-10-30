@@ -34,6 +34,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 - Object Detection and Classification for Medical Images
 
 ## Publications
+- Zhen-Zhen Xue, Cheng Li, Zhuo-Ming Luo, Shan-Shan Wang, and <b>Ying-Ying Xu</b>*. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers. <i>BMC Bioinformatics</i>, 2022, Accepted.
 
 - Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-09-16, btac634.
      
