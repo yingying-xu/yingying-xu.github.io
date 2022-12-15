@@ -36,29 +36,29 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 ## Publications
 - Xi-Liang Zhu, Lin-Xia Bao, Min-Qi Xue, and <b>Ying-Ying Xu</b>*. Automatic recognition of protein subcellular location patterns in single cells from immunofluorescence images based on deep learning. <i>Briefings in Bioinformatics</i>, 2022, Accepted.
 
-- Zhen-Zhen Xue, Cheng Li, Zhuo-Ming Luo, Shan-Shan Wang, and <b>Ying-Ying Xu</b>*. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers. <i>BMC Bioinformatics</i>, 2022-11-08, 23:470.
+- Zhen-Zhen Xue, Cheng Li, Zhuo-Ming Luo, Shan-Shan Wang, and <b>Ying-Ying Xu</b>*. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers. <i>BMC Bioinformatics</i>, 2022-11-08, 23:470. https://doi.org/10.1186/s12859-022-05015-z
 
-- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-11-01, 38(21):4941–4948.
+- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-11-01, 38(21):4941–4948. https://doi.org/10.1093/bioinformatics/btac634
      
-- Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Improving segmentation and classification of renal tumors in small sample 3D CT images using transfer learning with convolutional neural networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022-07, 17(7):1303-1311.
+- Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Improving segmentation and classification of renal tumors in small sample 3D CT images using transfer learning with convolutional neural networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022-07, 17(7):1303-1311. https://doi.org/10.1007/s11548-022-02587-2
 
-- Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2022-03-10, 23(2):bbab539.
+- Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2022-03-10, 23(2):bbab539. https://doi.org/10.1093/bib/bbab539
 
-- Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2022-02-01, 38(3):827–833.
+- Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2022-02-01, 38(3):827–833. https://doi.org/10.1093/bioinformatics/btab730
 
-- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2022-02, 90(2):493-503. 
+- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. Incorporating label correlations into deep neural networks to classify protein subcellular location patterns in immunohistochemistry images. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2022-02, 90(2):493-503. https://doi.org/10.1002/prot.26244 
 
-- Jiajia Zhao, Dian He, Hei Ming Lai, <b>Ying-Ying Xu</b>, Yunhao Luo, Ting Li, Jianhao Liang, Xiaodu Yang, Linlang Guo, Yiquan Ke, Hongwei Zhou, Wutian Wu* , Hongbo Guo* , Haitao Sun*. Comprehensive histological imaging of native microbiota in human glioma. <i>Journal of Biophotonics</i>, 2021-12-22, e202100351.
+- Jiajia Zhao, Dian He, Hei Ming Lai, <b>Ying-Ying Xu</b>, Yunhao Luo, Ting Li, Jianhao Liang, Xiaodu Yang, Linlang Guo, Yiquan Ke, Hongwei Zhou, Wutian Wu* , Hongbo Guo* , Haitao Sun*. Comprehensive histological imaging of native microbiota in human glioma. <i>Journal of Biophotonics</i>, 2021-12-22, e202100351. https://doi.org/10.1002/jbio.202100351
 
-- Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and <b>Ying-Ying Xu</b>*. Improving protein subcellular location classification by incorporating three-dimensional structure information. <i>Biomolecules</i>, 2021-10-29, 11(11):1607.
+- Ge Wang, Yu-Jia Zhai, Zhen-Zhen Xue, and <b>Ying-Ying Xu</b>*. Improving protein subcellular location classification by incorporating three-dimensional structure information. <i>Biomolecules</i>, 2021-10-29, 11(11):1607. https://doi.org/10.3390/biom11111607
 
-- <b>Ying-Ying Xu</b>, Hang Zhou, Robert F. Murphy, and Hong-Bin Shen*. Consistency and variation of protein subcellular location annotations. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021-02, 89(2):242-250.
+- <b>Ying-Ying Xu</b>, Hang Zhou, Robert F. Murphy, and Hong-Bin Shen*. Consistency and variation of protein subcellular location annotations. <i>Proteins: Structure, Function, and Bioinformatics</i>, 2021-02, 89(2):242-250. https://doi.org/10.1002/prot.26010
 
-- Zhen-Zhen Xue^, Yanxia Wu^, Qing-Zu Gao, Liang Zhao, and <b>Ying-Ying Xu</b>*. Automated classification of protein subcellular localization in immunohistochemistry images to reveal biomarkers in colon cancer. <i>BMC Bioinformatics</i>, 2020-09-09, 21(1):398.
+- Zhen-Zhen Xue^, Yanxia Wu^, Qing-Zu Gao, Liang Zhao, and <b>Ying-Ying Xu</b>*. Automated classification of protein subcellular localization in immunohistochemistry images to reveal biomarkers in colon cancer. <i>BMC Bioinformatics</i>, 2020-09-09, 21(1):398. https://doi.org/10.1186/s12859-020-03731-y
 
-- <b>Ying-Ying Xu</b>, Hong-Bin Shen* , and Robert F. Murphy*. Learning complex subcellular distribution patterns of proteins via analysis of immunohistochemistry images. <i>Bioinformatics</i>, 2020-03-15, 36(6):1908-1914.
+- <b>Ying-Ying Xu</b>, Hong-Bin Shen* , and Robert F. Murphy*. Learning complex subcellular distribution patterns of proteins via analysis of immunohistochemistry images. <i>Bioinformatics</i>, 2020-03-15, 36(6):1908-1914. https://doi.org/10.1093/bioinformatics/btz844
 
-- <b>Ying-Ying Xu</b>, Li-Xiu Yao, and Hong-Bin Shen*. Bioimage-based protein subcellular location prediction: a comprehensive review. <i>Frontiers of Computer Science</i>, 2018-01-12, 12(1):26-39.
+- <b>Ying-Ying Xu</b>, Li-Xiu Yao, and Hong-Bin Shen*. Bioimage-based protein subcellular location prediction: a comprehensive review. <i>Frontiers of Computer Science</i>, 2018-01-12, 12(1):26-39. https://doi.org/10.1007/s11704-016-6309-5
 
 - Wei Shao, Mingxia Liu, <b>Ying-Ying Xu</b>, Hong-Bin Shen, and Daoqiang Zhang. An organelle correlation-guided feature selection approach for classifying multi-label subcellular bioimages. <i>IEEE/ACM Transactions on Computational Biology and Bioinformatics</i>, 2018-05-01, 15(3):828-838.
 
