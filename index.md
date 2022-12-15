@@ -42,9 +42,11 @@ https://doi.org/10.1186/s12859-022-05015-z
 - Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-11-01, 38(21):4941–4948. 
 https://doi.org/10.1093/bioinformatics/btac634
      
-- Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Improving segmentation and classification of renal tumors in small sample 3D CT images using transfer learning with convolutional neural networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022-07, 17(7):1303-1311. https://doi.org/10.1007/s11548-022-02587-2
+- Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Improving segmentation and classification of renal tumors in small sample 3D CT images using transfer learning with convolutional neural networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022-07, 17(7):1303-1311.
+https://doi.org/10.1007/s11548-022-02587-2
 
-- Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2022-03-10, 23(2):bbab539. https://doi.org/10.1093/bib/bbab539
+- Ge Wang, Min-Qi Xue, Hong-Bin Shen* , and <b>Ying-Ying Xu</b>*. Learning protein subcellular localization multi-view patterns from heterogeneous data of imaging, sequence and networks. <i>Briefings in Bioinformatics</i>, 2022-03-10, 23(2):bbab539. 
+https://doi.org/10.1093/bib/bbab539
 
 - Min-Qi Xue, Xi-Liang Zhu, Ge Wang, and <b>Ying-Ying Xu</b>*. DULoc: quantitatively unmixing protein subcellular location patterns in immunofluorescence images based on deep learning features. <i>Bioinformatics</i>, 2022-02-01, 38(3):827–833. https://doi.org/10.1093/bioinformatics/btab730
 
