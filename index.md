@@ -36,9 +36,11 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 ## Publications
 - Xi-Liang Zhu, Lin-Xia Bao, Min-Qi Xue, and <b>Ying-Ying Xu</b>*. Automatic recognition of protein subcellular location patterns in single cells from immunofluorescence images based on deep learning. <i>Briefings in Bioinformatics</i>, 2022, Accepted.
 
-- Zhen-Zhen Xue, Cheng Li, Zhuo-Ming Luo, Shan-Shan Wang, and <b>Ying-Ying Xu</b>*. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers. <i>BMC Bioinformatics</i>, 2022-11-08, 23:470. https://doi.org/10.1186/s12859-022-05015-z
+- Zhen-Zhen Xue, Cheng Li, Zhuo-Ming Luo, Shan-Shan Wang, and <b>Ying-Ying Xu</b>*. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers. <i>BMC Bioinformatics</i>, 2022-11-08, 23:470. 
+https://doi.org/10.1186/s12859-022-05015-z
 
-- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-11-01, 38(21):4941–4948. https://doi.org/10.1093/bioinformatics/btac634
+- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022-11-01, 38(21):4941–4948. 
+https://doi.org/10.1093/bioinformatics/btac634
      
 - Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Improving segmentation and classification of renal tumors in small sample 3D CT images using transfer learning with convolutional neural networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022-07, 17(7):1303-1311. https://doi.org/10.1007/s11548-022-02587-2
 
