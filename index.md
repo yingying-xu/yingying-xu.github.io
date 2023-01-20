@@ -34,7 +34,10 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 - Object Detection and Classification for Medical Images
 
 ## Publications
-- Xi-Liang Zhu, Lin-Xia Bao, Min-Qi Xue, and <b>Ying-Ying Xu</b>*. Automatic recognition of protein subcellular location patterns in single cells from immunofluorescence images based on deep learning. <i>Briefings in Bioinformatics</i>, 2022, Accepted.
+
+- Dian He, Ting Li, Xiaodu Yang, <b>Ying-Ying Xu</b>, Haitao Sun*. Sudan Black B treatment for reducing autofluorescence in human glioma tissue and improving fluorescent signals of bacterial LPS staining. <i>Journal of Biophotonics</i>, 2023-01-12, e202200357.   https://doi.org/10.1002/jbio.202200357
+
+- Xi-Liang Zhu, Lin-Xia Bao, Min-Qi Xue, and <b>Ying-Ying Xu</b>*. Automatic recognition of protein subcellular location patterns in single cells from immunofluorescence images based on deep learning. <i>Briefings in Bioinformatics</i>, 2022-12-28, 24(1):bbac609.    https://doi.org/10.1093/bib/bbac609
 
 - Zhen-Zhen Xue, Cheng Li, Zhuo-Ming Luo, Shan-Shan Wang, and <b>Ying-Ying Xu</b>*. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers. <i>BMC Bioinformatics</i>, 2022-11-08, 23:470. 
 https://doi.org/10.1186/s12859-022-05015-z
@@ -78,5 +81,4 @@ https://doi.org/10.1186/s12859-022-05015-z
 - <b>Ying-Ying Xu</b>, Fan Yang, Yang Zhang* , and Hong-Bin Shen*. An image-based multi-label human protein subcellular localization predictor (<i>i</i>Locator) reveals protein mislocalizations in cancer tissues. <i>Bioinformatics</i>, 2013-08-15, 29(16):2032-2040. https://doi.org/10.1093/bioinformatics/btt320
 
 - Fan Yang, <b>Ying-Ying Xu</b>, and Hong-Bin Shen*. Automated classification of protein subcellular location patterns on images of human reproductive tissues. <i>3rd Sino-foreign-interchange workshop on Intelligent Science and Intelligent Data Engineering (IScIDE 2012)</i>, 2012-10-15, 254-262, Nanjing, China. https://doi.org/10.1007/978-3-642-36669-7_32
-
 
