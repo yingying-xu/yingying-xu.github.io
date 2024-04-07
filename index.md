@@ -37,16 +37,16 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - Xiaodu Yang, Dian He, Yu Li, Chenyang Li, Xinyue Wang, Xingzheng Zhu*, Haitao Sun*, and <b>Ying-Ying Xu</b>*. Deep learning-based vessel extraction in 3D confocal microscope images of cleared human glioma tissues. <i>Biomedical Optics Express</i>, 2024, 15(4):2498-2516.   https://doi.org/10.1364/BOE.516541
 
-- Lin-Xia Bao, Zhuo-Ming Luo, Xi-Liang Zhu, and <b>Ying-Ying Xu</b>*. Automated identification of protein expression intensity and classification of protein cellular locations in mouse brain regions from immunofluorescence images. <i>Medical & Biological Engineering & Computing</i>, 2023, 62:1105–1119.   https://doi.org/10.1007/s11517-023-02985-x
+- Lin-Xia Bao, Zhuo-Ming Luo, Xi-Liang Zhu, and <b>Ying-Ying Xu</b>*. Automated identification of protein expression intensity and classification of protein cellular locations in mouse brain regions from immunofluorescence images. <i>Medical & Biological Engineering & Computing</i>, 2023, 62:1105–1119.                                                                                                                     https://doi.org/10.1007/s11517-023-02985-x
 
-- Dian He, Ting Li, Xiaodu Yang, <b>Ying-Ying Xu</b>, Haitao Sun*. Sudan Black B treatment for reducing autofluorescence in human glioma tissue and improving fluorescent signals of bacterial LPS staining. <i>Journal of Biophotonics</i>, 2023, e202200357.   https://doi.org/10.1002/jbio.202200357
+- Dian He, Ting Li, Xiaodu Yang, <b>Ying-Ying Xu</b>, Haitao Sun*. Sudan Black B treatment for reducing autofluorescence in human glioma tissue and improving fluorescent signals of bacterial LPS staining. <i>Journal of Biophotonics</i>, 2023, e202200357.            https://doi.org/10.1002/jbio.202200357
 
-- Xi-Liang Zhu, Lin-Xia Bao, Min-Qi Xue, and <b>Ying-Ying Xu</b>*. Automatic recognition of protein subcellular location patterns in single cells from immunofluorescence images based on deep learning. <i>Briefings in Bioinformatics</i>, 2023, 24(1):bbac609.    https://doi.org/10.1093/bib/bbac609
+- Xi-Liang Zhu, Lin-Xia Bao, Min-Qi Xue, and <b>Ying-Ying Xu</b>*. Automatic recognition of protein subcellular location patterns in single cells from immunofluorescence images based on deep learning. <i>Briefings in Bioinformatics</i>, 2023, 24(1):bbac609.               https://doi.org/10.1093/bib/bbac609
 
 - Zhen-Zhen Xue, Cheng Li, Zhuo-Ming Luo, Shan-Shan Wang, and <b>Ying-Ying Xu</b>*. Automated classification of protein expression levels in immunohistochemistry images to improve the detection of cancer biomarkers. <i>BMC Bioinformatics</i>, 2022, 23:470. 
 https://doi.org/10.1186/s12859-022-05015-z
 
-- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022, 38(21):4941–4948.                                 https://doi.org/10.1093/bioinformatics/btac634
+- Jin-Xian Hu, Yang Yang, <b>Ying-Ying Xu</b>* , and Hong-Bin Shen*. GraphLoc: a graph neural network model for predicting protein subcellular localization from immunohistochemistry images. <i>Bioinformatics</i>, 2022, 38(21):4941–4948.                                                                         https://doi.org/10.1093/bioinformatics/btac634
      
 - Xi-Liang Zhu, Hong-Bin Shen, Haitao Sun, Li-Xia Duan* , and <b>Ying-Ying Xu</b>*. Improving segmentation and classification of renal tumors in small sample 3D CT images using transfer learning with convolutional neural networks. <i>International Journal of Computer Assisted Radiology and Surgery</i>, 2022, 17(7):1303-1311.                                     https://doi.org/10.1007/s11548-022-02587-2
 
