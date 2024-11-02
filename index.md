@@ -35,6 +35,8 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
+- Yu Li, Guo-Hua Zeng, Yong-Jia Liang, Hong-Rui Yang, Xi-Liang Zhu, Yu-Jia Zhai, Li-Xia Duan, and <b>Ying-Ying Xu</b>*. Improving quantitative prediction of protein subcellular locations in fluorescence images through deep generative models. <i>Computers in Biology and Medicine</i>, 2024, 179, 108913.  https://doi.org/10.1016/j.compbiomed.2024.108913
+  
 - Xiaodu Yang, Dian He, Yu Li, Chenyang Li, Xinyue Wang, Xingzheng Zhu* , Haitao Sun* , and <b>Ying-Ying Xu</b>*. Deep learning-based vessel extraction in 3D confocal microscope images of cleared human glioma tissues. <i>Biomedical Optics Express</i>, 2024, 15(4):2498-2516.   https://doi.org/10.1364/BOE.516541
 
 - Lin-Xia Bao, Zhuo-Ming Luo, Xi-Liang Zhu, and <b>Ying-Ying Xu</b>*. Automated identification of protein expression intensity and classification of protein cellular locations in mouse brain regions from immunofluorescence images. <i>Medical & Biological Engineering & Computing</i>, 2023, 62:1105–1119.                                                                                                                     https://doi.org/10.1007/s11517-023-02985-x
