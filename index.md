@@ -37,7 +37,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 - Guo-Hua Zeng^, Xing-Zheng Zhu^, Hong-Rui Yang, Yong-Jia Liang, Yu-Jia Zhai, and <b>Ying-Ying Xu</b>*. Knowledge-enhanced protein subcellular localization prediction from 3D fluorescence microscope images. <i>Bioinformatics</i>, 2025, 41(6):btaf331.  https://doi.org/10.1093/bioinformatics/btaf331
   
-- Xiaodu Yang^, Xinyue Wang^, Dian He^, Feiyang Luo^, Chenyang Li, Yunhao Luo, Ting Li, Zhaoyu Ye, Chun Ye, Minglin Zhang, Hei Ming Lai, <b>Ying-Ying Xu</b>*, and Haitao Sun*. Three-dimensional visualisation of blood vessels in human gliomas using tissue clearing and deep learning. <i>Neuropathology and Applied Neurobiology</i>, 2025, 51(4): e70027. https://doi.org/10.1111/nan.70027
+- Xiaodu Yang^, Xinyue Wang^, Dian He^, Feiyang Luo^, Chenyang Li, Yunhao Luo, Ting Li, Zhaoyu Ye, Chun Ye, Minglin Zhang, Hei Ming Lai, <b>Ying-Ying Xu</b> * ,  and Haitao Sun*. Three-dimensional visualisation of blood vessels in human gliomas using tissue clearing and deep learning. <i>Neuropathology and Applied Neurobiology</i>, 2025, 51(4): e70027. https://doi.org/10.1111/nan.70027
 
 - Yu Li, Guo-Hua Zeng, Yong-Jia Liang, Hong-Rui Yang, Xi-Liang Zhu, Yu-Jia Zhai, Li-Xia Duan, and <b>Ying-Ying Xu</b>*. Improving quantitative prediction of protein subcellular locations in fluorescence images through deep generative models. <i>Computers in Biology and Medicine</i>, 2024, 179, 108913.  https://doi.org/10.1016/j.compbiomed.2024.108913
   
