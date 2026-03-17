@@ -36,7 +36,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
-- Ying-Yi Wang^, Yu Li^, Ying He, Yang Xiong, Yi-Lin Li, and <b>Ying-Ying Xu</b>*. Diffusion-Based Generation of Cell Images with Quantitative Fluorescence for Precise and Interpretable Protein Subcellular Localization. <i>Displays</i>, 2026, 103426. https://doi.org/10.1016/j.displa.2026.103426
+- Ying-Yi Wang^, Yu Li^, Ying He, Yang Xiong, Yi-Lin Li, and <b>Ying-Ying Xu</b>*. Diffusion-Based Generation of Cell Images with Quantitative Fluorescence for Precise and Interpretable Protein Subcellular Localization. <i>Displays</i>, 2026, 93:103426. https://doi.org/10.1016/j.displa.2026.103426
 
 - Guo-Hua Zeng^, Xing-Zheng Zhu^, Hong-Rui Yang, Yong-Jia Liang, Yu-Jia Zhai, and <b>Ying-Ying Xu</b>*. Knowledge-enhanced protein subcellular localization prediction from 3D fluorescence microscope images. <i>Bioinformatics</i>, 2025, 41(6):btaf331.  https://doi.org/10.1093/bioinformatics/btaf331
   
