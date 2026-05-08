@@ -36,7 +36,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
-- Yi-Lin Li, Ying-Yi Wang, Xi-Liang Zhu, Ying He, Qian Zhou, and <b>Ying-Ying Xu</b>*. SCPLoc: A weakly-supervised multi-instance learning framework for protein subcellular localization and heterogeneity profiling in single-cell immunofluorescence images. <i>Neurocomputing</i>, 2026, 133825.  https://doi.org/10.1016/j.neucom.2026.133825
+- Yi-Lin Li, Ying-Yi Wang, Xi-Liang Zhu, Ying He, Qian Zhou, and <b>Ying-Ying Xu</b>*. SCPLoc: A weakly-supervised multi-instance learning framework for protein subcellular localization and heterogeneity profiling in single-cell immunofluorescence images. <i>Neurocomputing</i>, 2026, 693:133825.  https://doi.org/10.1016/j.neucom.2026.133825
 
 - Ying-Yi Wang^, Yu Li^, Ying He, Yang Xiong, Yi-Lin Li, and <b>Ying-Ying Xu</b>*. Diffusion-Based Generation of Cell Images with Quantitative Fluorescence for Precise and Interpretable Protein Subcellular Localization. <i>Displays</i>, 2026, 93:103426. https://doi.org/10.1016/j.displa.2026.103426
 
