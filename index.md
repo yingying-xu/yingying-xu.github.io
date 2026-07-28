@@ -36,7 +36,7 @@ My name is Ying-Ying Xu. I am an associate professor in the School of Biomedical
 
 ## Publications
 
-- Yong-Jia Liang, Qian-Yi Wang, Qian Zhou, and <b>Ying-Ying Xu</b>*. Learning high-resolution protein embeddings from multimodal data via self-supervised integration. <i>Journal of Chemical Information and Modeling</i>, 2026, In Press. https://doi.org/10.1021/acs.jcim.6c00618
+- Yong-Jia Liang, Qian-Yi Wang, Qian Zhou, and <b>Ying-Ying Xu</b>*. Learning high-resolution protein embeddings from multimodal data via self-supervised integration. <i>Journal of Chemical Information and Modeling</i>, 2026, 66(13):7749-7761. https://doi.org/10.1021/acs.jcim.6c00618
 
 - Yi-Lin Li, Ying-Yi Wang, Xi-Liang Zhu, Ying He, Qian Zhou, and <b>Ying-Ying Xu</b>*. SCPLoc: A weakly-supervised multi-instance learning framework for protein subcellular localization and heterogeneity profiling in single-cell immunofluorescence images. <i>Neurocomputing</i>, 2026, 693:133825.  https://doi.org/10.1016/j.neucom.2026.133825
 
